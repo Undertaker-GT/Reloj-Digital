@@ -6,7 +6,7 @@ Esta es una aplicacion web que muestra la hora y la fecha actual. Fue creado uti
 **Thiego Véliz**
 
 ## Ver ejemplo en vivo
-- [https://undertaker-gt.github.io/Calculadora/]
+- [ https://undertaker-gt.github.io/Reloj-Digital/ ]
 
 ## Instalación 
 Este proyecto no necesita de instalacion. Simplemente abre la carperta o haz doble click en el .html
